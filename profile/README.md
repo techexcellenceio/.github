@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Visit our website [techexcellence.io](https://www.techexcellence.io/){:target="_blank"} or join our [GitHub discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"} if you want to talk about technical topics.
+
 <!--
 
 **Here are some ideas to get you started:**
